@@ -1,3 +1,6 @@
 [submodule "bar-child"]
 	path = bar-child
 	url = git@github.com:marslavish/bar-child.git
+[submodule "baz-child"]
+	path = baz-child
+	url = git@github.com:marslavish/baz-child.git
